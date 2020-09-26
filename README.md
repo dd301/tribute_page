@@ -1,1 +1,1 @@
-Page: http://dd301.github.io/tribute_page
+This is a tribute page to Peter Thiel.
