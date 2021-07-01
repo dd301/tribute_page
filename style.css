@@ -22,6 +22,7 @@ main{
     align-items: center;
     margin:50px;
     
+    
   }
   #tribute-info{
     display: flex;
@@ -40,6 +41,7 @@ main{
   }
   img{
     max-width:100%;
+    border-radius: 20px;
     
   }
   #img-caption{
