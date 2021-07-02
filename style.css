@@ -27,10 +27,7 @@ h1{
 }
 
 #tribute-info{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    text-align: justify;
     padding-right:15%;
     padding-left:15%;
 }
