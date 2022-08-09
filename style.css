@@ -19,11 +19,8 @@ h1{
 }
   
 #img-div{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin:50px;
+    margin: auto;
+    padding: 10px;
 }
 
 #tribute-info{
@@ -56,6 +53,7 @@ header{
     font-size: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
+    padding: 10px;
 }
   
 #Bio-data{
